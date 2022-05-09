@@ -5,7 +5,7 @@ Projeto criado para instruir os alunos do programa devstart, quanto a utiliza√ß√
 
 ## Autores
 
-- [@rejota23](https://www.github.com/rejota23)
+- [@rejota23](https://www.github.com/rejota23) Regis
 - [@lnmont](https://www.github.com/lnmont)
 
 
