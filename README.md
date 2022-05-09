@@ -9,23 +9,9 @@ Projeto criado para instruir os alunos do programa devstart, quanto a utilizaç�
 - [@lnmont](https://www.github.com/lnmont)
 
 
-## FAQ
+## Funcionalidades
 
-#### Questão 1
-
-Resposta 1
-
-#### Questão 2
-
-Resposta 2
-
-
-## Instalação
-
-Instale my-project com npm
-
-```bash
-  npm install my-project
-  cd my-project
-```
-    
+- git stash (salva alterações sem commit)
+- git stash pop (restaura alterações salvas)
+- git stash list (list stashes)
+- git stash pop stash@{1} (aplica stash especifico)
