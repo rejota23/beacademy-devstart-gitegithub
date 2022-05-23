@@ -13,6 +13,5 @@ Projeto criado para instruir os alunos do programa devstart, quanto a utilizaç�
 - git stash pop (restaura alterações salvas)
 - git stash list (list stashes)
 - git stash pop stash@{1} (aplica stash especifico)
-- inclusão de teste
 - inclusão de teste 2
 - inclusão de teste 3
