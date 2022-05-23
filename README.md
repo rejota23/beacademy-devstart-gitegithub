@@ -7,7 +7,7 @@ Projeto criado para instruir os alunos do programa devstart, quanto a utilizaç�
 - [@rejota23](https://www.github.com/rejota23) Regis =)
 - [@rejota23](https://www.github.com/rejota23) Luan  =)
 
-## Funcionalidades
+## Funcionalidades (teste)
 
 - git stash (salva alterações sem commit)
 - git stash pop (restaura alterações salvas)
